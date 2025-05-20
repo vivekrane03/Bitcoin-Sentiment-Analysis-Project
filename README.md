@@ -1,4 +1,4 @@
-# COGS 108 - Bitcoin Sentiment Analysis Project
+### Bitcoin Sentiment Analysis Project
 
 This project analyzes the relationship between Bitcoin's price movements and social media sentiment, specifically focusing on tweets mentioning Bitcoin. This project was made for the UC San Diego course COGS 108 (Data Science in Practice)
 
